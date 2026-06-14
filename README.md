@@ -1,16 +1,13 @@
 ## Hi there 👋
+I'm Soheil.
+AI enthusiast and developer who enjoys machine learning, deep learning and LLMs.
 
-<!--
-**soheilmaleki11/soheilmaleki11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... building music using a decoder transformer 🎶
+- 🌱 I’m currently learning ... all about natural language processing and LLMs
+- 👯 I’m looking to collaborate with ... people who are interested in AI topic specially people interested in NEURAL NETWORKS !!!
+- 💬 Ask me about ... Machine Learning, Deep Learning, Python.
+- 📫 How to reach me: s
+- 😄 Pronouns: ... s
+- ⚡ Fun fact: ... s
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Language and Tools:** s
