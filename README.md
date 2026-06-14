@@ -79,5 +79,10 @@ I'm Soheil. AI enthusiast and developer passionate about machine learning, deep 
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">
       </a>
     </td>
+    <td align="center">
+      <a href="https://instagram.com/soheilmaleki78">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+      </a>
+    </td>
   </tr>
 </table>
